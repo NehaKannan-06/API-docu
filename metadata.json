@@ -1,0 +1,8 @@
+{
+  "name": "DocuAPI AI",
+  "description": "Automatically generate professional, accurate API documentation from code and definitions using intelligent AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
